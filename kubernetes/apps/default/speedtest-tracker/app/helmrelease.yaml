@@ -49,7 +49,7 @@ spec:
           main:
             image:
               repository: ghcr.io/alexjustesen/speedtest-tracker
-              tag: v0.14.4@sha256:4aa9c7d7407f4dcbf869f4b7a0500832138c787b10257803b65c0796c75fcc5e
+              tag: v0.18.3@sha256:1e4950459742ab7203d17c641959c36b6a30e8072e01edf732b599f38253416d
             envFrom: *envFrom
             resources: &resources
               requests:
